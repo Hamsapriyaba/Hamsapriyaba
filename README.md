@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi I am Hamsapriya B A👋
+
 
 <!--
 **Hamsapriyaba/Hamsapriyaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Hamsapriyaba&theme=radical&column=4&margin-w=15&margin-h=15)
 
