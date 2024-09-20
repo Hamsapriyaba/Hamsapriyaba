@@ -23,8 +23,7 @@ Here are some ideas to get you started:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamsapriyaba&layout=compact&theme=radical)
 
-![GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=Hamsapriyaba&theme=react-dark)
-
+![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=Hamsapriyaba&theme=react-dark)
 
 🏆 GitHub Trophies
 
@@ -32,8 +31,9 @@ Here are some ideas to get you started:
 
 🔗 Connect with Me
 
-- [LinkedIn]([https://www.linkedin.com/in/your-linkedin-username/](https://www.linkedin.com/in/hamsapriya-b-a-1a2576281/))
-- [Email](mailto:hamsapriyaba04@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hamsapriya-b-a-1a2576281/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:hamsapriyaba04@gmail.com)
+
 
 
 
