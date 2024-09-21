@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hamsapriya-b-a-1a2576281/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:hamsapriyaba04@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Hamsapriyaba&style=flat-square&color=blue)
 
 
 
