@@ -31,7 +31,10 @@ Here are some ideas to get you started:
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Hamsapriyaba&theme=radical&column=4&margin-w=15&margin-h=15)
 
-![Visitors](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=views&query=%24.total&url=https%3A%2F%2Fapi.github.com%2Frepos%2FOWNER%2FREPO%2Ftraffic%2Fviews&suffix=%20total)
+Clone Statistics
+![Total Clones](https://img.shields.io/badge/clones-<actual_clone_count>-blue)
+
+Total Clones: <actual_clone_count>
 
 🔗 Connect with Me
 
