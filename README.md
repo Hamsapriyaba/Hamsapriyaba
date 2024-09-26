@@ -31,11 +31,6 @@ Here are some ideas to get you started:
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Hamsapriyaba&theme=radical&column=4&margin-w=15&margin-h=15)
 
-Clone Statistics
-![Total Clones](https://img.shields.io/badge/clones-<actual_clone_count>-blue)
-
-Total Clones: <actual_clone_count>
-
 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hamsapriya-b-a-1a2576281/)
