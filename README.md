@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api?username=Hamsapriyaba&show_icons=true&count_private=true&theme=dark)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hamsapriyaba&theme=highcontrast)
+
 ![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=Hamsapriyaba&theme=react-dark)
 
 🏆 GitHub Trophies
