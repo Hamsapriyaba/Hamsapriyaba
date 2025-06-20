@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Hamsapriyaba&theme=radical&column=4&margin-w=15&margin-h=15&timestamp=2025)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Hamsapriyaba&theme=radical&column=4&margin-w=15&margin-h=15)
 
 
 🔗 Connect with Me
