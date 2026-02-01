@@ -43,12 +43,11 @@ Here are some ideas to get you started:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamsapriyaba&layout=compact&theme=radical)
 
-![](https://github-readme-stats.vercel.app/api?username=Hamsapriyaba&show_icons=true&count_private=true&theme=dark)
-
 
 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Hamsapriyaba&theme=radical&column=4&margin-w=15&margin-h=15)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Hamsapriyaba)
+
 
 
 🔗 Connect with Me
