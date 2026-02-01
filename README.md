@@ -46,7 +46,8 @@ Here are some ideas to get you started:
 
 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Hamsapriyaba)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Hamsapriyaba&theme=radical&row=2)
+
 
 
 
